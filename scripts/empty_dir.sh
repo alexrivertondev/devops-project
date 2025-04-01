@@ -2,3 +2,4 @@
 
 rm -r /var/www/html/*
 
+
